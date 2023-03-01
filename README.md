@@ -1,4 +1,4 @@
-# Chat-Serverless---AWS-Cloud
+# Chat-Serverless AWS Cloud
 
 AWS: Amazon Web Services
 
