@@ -7,3 +7,9 @@ Serverless:Serverless √© um modelo de desenvolvimento nativo em nuvem para cria√
 Beneficions: 
 - Agilidade
 - Praticidade
+
+Ambiente:
+Node 17.7.1
+
+_________________________________________________________
+
